@@ -52,7 +52,7 @@ class MealsScreen extends StatelessWidget {
             ),
             const SizedBox(height: 16),
             Text(
-              'Try favorating some dishes',
+              'Try adding some dishes',
               style: Theme.of(context).textTheme.bodyLarge!.copyWith(
                     color: Theme.of(context).colorScheme.onBackground,
                   ),
